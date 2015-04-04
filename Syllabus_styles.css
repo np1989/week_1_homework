@@ -37,6 +37,20 @@
     .Week {
       border: thin grey solid;
       text-transform: uppercase;
-
-
     }
+
+    .WeekOdd {
+      border: thin grey solid;
+      text-transform: uppercase;
+      background-color:lavender;
+    }
+     .Odd {
+      border: thin grey solid;
+      background-color:lavender;
+    }
+      .SubH{
+        border: thin grey solid;
+        background-color:black;
+        color: white;
+        text-align:center;
+      }
