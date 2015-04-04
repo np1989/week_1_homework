@@ -1,0 +1,28 @@
+/*Class Notes, Shortcuts, Commands, etc.*/
+  /*Shift command D */
+  /* style section requires you to right in CSS*/
+
+/*Header and Quote styling*/
+  h1{
+    color: red;
+    border-bottom: 1px blue dashed;
+    }
+  h2{
+    border-top: 2px black solid;
+    border-bottom: 1px black solid;
+    }
+  .Quote {
+    font-style: italic;
+    }
+  .Important {
+    font-style: underline;
+    }
+
+/*Table Styling Notation*/
+  td {
+      border: thin red solid;
+    }
+
+    th {
+      border: thin blue solid;
+    }
